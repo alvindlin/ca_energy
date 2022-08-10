@@ -14,14 +14,6 @@ Data was pulled from the California Energy Comission. For the total in-state ele
 
 The values, dates, and names were all complete and clean. The main problem with the electricity generation data was that the tables were all on one excel sheet. I had to manually split the tables into multiple sheets prior to working on them in Tableau. In addition to that, I transpoed the entire sheet so that the years were in the first column. This way it can be used as a dimension in Tableau. 
 
-Raw Data
-
-![raw data](https://user-images.githubusercontent.com/107506192/183778693-31514844-d3cb-47ae-a007-bd56d628a132.png)
-
-Transposed and Cleaned Data
-
-![Screen Shot 2022-08-09 at 4 27 37 PM](https://user-images.githubusercontent.com/107506192/183778847-fc007568-c603-4c0a-ba6e-4c5c78baac3b.png)
-
 ## Results
 
 ### 1. Renewable Energy vs Non-Renewable Energy
