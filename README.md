@@ -1,4 +1,4 @@
-# Energy in California
+# Energy in California (Tableau Dashboard)
 
 For the Capstone Project for the "Data Visualization with Tableau" Specialization course on Coursera, this study was performed to create a visual presentation of a topic of my choice. As a California native who is passionate about the environment and has an interest in becoming an energy analyst, I decided to do a study on California's Energy and Consumption. The final interactive dashboard can be found [here](https://public.tableau.com/shared/43SJJRK5Y?:display_count=n&:origin=viz_share_link). Snippets of the dashboard is presented below. 
 
